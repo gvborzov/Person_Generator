@@ -1,0 +1,15 @@
+.card-header {
+    background-color: rgb(237, 240, 87);
+}
+.card-body {
+    background-color: rgb(225, 230, 180);
+
+    text-align: left;
+}
+.m-0{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+body {
+    background-image: url('Background.jpg');
+}
